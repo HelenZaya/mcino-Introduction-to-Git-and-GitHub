@@ -1,0 +1,3 @@
+git branch -vv
+  bug-fix-typo 7ef69e6 Fix README wording typo
+* main         6101885 [origin/main: ahead 2] Merge bug-fix-typo
